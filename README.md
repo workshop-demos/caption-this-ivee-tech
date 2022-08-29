@@ -1,4 +1,4 @@
-# GitHub for Developers Y
+# GitHub for Developers
 
 - Class Date: THIS-DATE
 - Facilitator: @TEACHER-HANDLE
